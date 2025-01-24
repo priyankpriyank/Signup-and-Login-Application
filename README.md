@@ -1,7 +1,6 @@
 ### **Signup and Login Application**
 <small>© Priyank Vora - 2024.</small>
 
-```markdown
 # Signup and Login Application
 
 A Python-based GUI application for user registration and secure login, built with Tkinter and CustomTkinter.
@@ -20,3 +19,11 @@ A Python-based GUI application for user registration and secure login, built wit
 1. Clone the repository:
    ```bash
    git clone <repository-url>
+
+
+## 🔗 Connect with Me!
+💼[LinkedIn](https://www.linkedin.com/in/priyankpvora/)
+
+🌟[GitHub](https://github.com/priyankpriyank)
+
+🌐[Portfolio Website](https://priyank-vora.netlify.app/)
